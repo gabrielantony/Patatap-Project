@@ -1,2 +1,2 @@
 # Patatap-Project
-One of my course projects
+A fun animated "game" I made through one of the courses i've been taking
